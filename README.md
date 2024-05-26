@@ -10,7 +10,9 @@
 
 - 📄 Please kindly click on my [Resume](https://drive.google.com/file/d/1uYhlyAX1X1ViSId01gZ1dHxIWdmMBEvO/view?usp=sharing)
 
-- As a lifelong learner, I am committed to continually striving towards my major objectives, no matter the challenges I encounter. **"Hard work beats talent when talent doesn't work hard"**
+- As a lifelong learner, I am committed to continually striving towards my major objectives, no matter the challenges I encounter.
+
+- **"Hard work beats talent when talent doesn't work hard"**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
