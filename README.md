@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently a Junior student at **HCMC University of Technology (HCMUT) - National University HCMC**
 
-- 🌱 I’m currently learning **Verilog, SystemVerilog, UVM**
+- 🌱 I’m currently learning **Verilog**
 
 - 📫 How to reach me **data.thd356@gmail.com**
 
